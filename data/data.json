@@ -1,0 +1,36 @@
+{
+"mobiles":[
+{
+"name":"mi 10t pro",
+"image":"img/1.jpg",
+"originalprice":47500,
+"price":41000
+
+},{
+"name":"mi note 7 pro",
+"image":"img/2.jpg",
+"originalprice":15600,
+"price":13500
+},{
+"name":"mi note 8 pro",
+"image":"img/3.jpg",
+"originalprice":20550,
+"price":18500
+},{
+"name":"samsung j6 plus",
+"image":"img/4.jpg",
+"originalprice":17000,
+"price":15000
+},{
+"name":"mi note 5",
+"image":"img/5.jpg",
+"originalprice":13000,
+"price":11500
+},{
+"name":"mi 4a",
+"image":"img/6.jpg",
+"originalprice":8500,
+"price":7500
+}
+]
+}
